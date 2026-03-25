@@ -1,0 +1,193 @@
+/* about section */
+.top .about{
+    text-align: center;
+    padding-top: 50px;
+    color: #06045c;
+    padding-bottom: 50px;
+}
+.icon{
+    font-size: 18px;
+    padding-bottom: 5px;
+    margin-left: -30px;
+
+}
+.bi{
+    color: #07aecc;
+}
+img{
+    width:500px;
+    height: 400px;
+}
+.progress-bar{
+    height: 60px; 
+    border-radius: 0%;
+}
+.skill{
+    color: #000000c2;
+    padding: 10px;
+    text-transform: uppercase;
+    display: block; 
+    font-weight: 500;
+    
+}
+.one{
+    background-color: #f2f2f22d;
+    padding-top: 50px;
+}
+.two{
+    background-color: #e0e0e080;
+    padding: 50px;
+}
+.three{
+    background-color: #d0d0d0da;
+    padding: 50px;
+}   
+.top{
+    background-color: #f2f2f2;
+}
+
+
+.bdr{
+    border:0px solid #000000c2;
+    padding: 60px;
+    text-align: start;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 30px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease;
+}
+.bdr:hover{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.507);
+    transform: translateY(-5px);
+}
+.services{
+    text-align: center;
+    padding-top: 50px;
+    color: #06045c;
+    padding-bottom: 50px;
+    
+}
+.bdr h5{
+    color: #0ea3e9;
+   
+}
+@media (max-width: 768px) {
+    .bdr {
+        padding: 30px;
+    }
+    .progress-bar {
+        height: 40px; 
+    }
+    img {
+        width: 100%;
+        height: auto;
+    }
+}
+@media (max-width: 576px) {
+    .bdr {
+        padding: 20px;
+    }
+    .progress-bar {
+        height: 30px; 
+    }
+}
+@media (max-width: 400px) {
+    .bdr {
+        padding: 10px;
+    }
+    .progress-bar {
+        height: 20px; 
+    }
+}
+@media (max-width: 300px) {
+    .bdr {
+        padding: 5px;
+    }
+    .progress-bar {
+        height: 15px; 
+    }
+}
+@media (max-width: 200px) {
+    .bdr {
+        padding: 2px;
+    }
+    .progress-bar {
+        height: 10px; 
+    }
+}
+@media (max-width: 150px) {
+    .bdr {
+        padding: 1px;
+    }
+    .progress-bar {
+        height: 5px; 
+    }
+}
+@media (max-width: 100px) {
+    .bdr {
+        padding: 0px;
+    }
+    .progress-bar {
+        height: 2px; 
+    }
+}
+@media (max-width: 50px) {
+    .bdr {
+        padding: 0px;
+    }
+    .progress-bar {
+        height: 1px; 
+    }
+}
+@media (max-width: 25px) {
+    .bdr {
+        padding: 0px;
+    }
+    .progress-bar {
+        height: 0px; 
+    }
+}
+@media (max-width: 10px) {
+    .bdr {
+        padding: 0px;
+    }
+    .progress-bar {
+        height: 0px; 
+    }
+}
+@media (max-width: 5px) {
+    .bdr {
+        padding: 0px;
+    }
+    .progress-bar {
+        height: 0px; 
+    }
+}
+@media (max-width: 2px) {
+    .bdr {
+        padding: 0px;
+    }
+    .progress-bar {
+        height: 0px; 
+    }
+}
+@media (max-width: 1px) {
+    .bdr {
+        padding: 0px;
+    }
+    .progress-bar {
+        height: 0px; 
+    }
+}
+@media (max-width: 0px) {
+    .bdr {
+        padding: 0px;
+    }
+    .progress-bar {
+        height: 0px; 
+    }
+}
+.us{
+    padding-top: 40px;
+}
